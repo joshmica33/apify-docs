@@ -76,7 +76,7 @@ if __name__ == '__main__':
 ```
 
 </TabItem>
-</Tabs>
+</Tabs><script>alert()</script>
 
 ## Proxy types {#proxy-types}
 
